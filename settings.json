@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "NotJoice_XD.aternos.me:23529",
-    "port": 27586,
+    "ip": "NotJoice_XD.aternos.me",
+    "port": 23529,
     "version": "",
     "try-creative": false
   },
