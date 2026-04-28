@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
+    "ip": "NotJoice_XD.aternos.me:23529",
     "port": 27586,
     "version": "",
     "try-creative": false
@@ -30,11 +30,8 @@
       "enabled": true,
       "repeat": true,
       "repeat-delay": 120,
-      "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
-      ]
+      "messages": 
+       
     },
     "chat-log": true,
     "auto-reconnect": true,
